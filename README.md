@@ -3,7 +3,7 @@ Exploratory Data Analysis - course assignment - Project 1
 
 Project 1 - Plot graphs using data files 
 
-My code expects data file to be unzipped in current working directory with name "household_power_consumption".
+My code expects data file to be unzipped in current working directory with name "household_power_consumption.txt".
 Final plots are saved in current working directory in format of .png 
 - "plot1.R" creates "plot1.png" 
 - "plot2.R" creates "plot2.png"
